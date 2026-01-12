@@ -103,7 +103,7 @@ RAG systems
 
 🚀 Быстрый старт
 🔧 Установка
-git clone https://github.com/your-username/rag-building-blocks.git
+git clone https://github.com/understanding12/RAG-System-Semantic-Search.git
 cd rag-building-blocks
 pip install -r requirements.txt
 
